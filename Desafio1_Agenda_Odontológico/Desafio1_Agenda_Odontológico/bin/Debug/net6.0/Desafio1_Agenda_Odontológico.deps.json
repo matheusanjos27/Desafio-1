@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Desafio1_Agenda_Odontológico/1.0.0": {
+        "runtime": {
+          "Desafio1_Agenda_Odontológico.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Desafio1_Agenda_Odontológico/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
